@@ -44,9 +44,9 @@ On your supporting sites, `api.abc.com` etc., add a 303 redirect from `/privacy.
 
 You can see this in action at
 
-https://bringyour.com/privacy.txt
+[https://bringyour.com/privacy.txt](https://bringyour.com/privacy.txt)
 
-https://api.bringyour.com/privacy.txt
+[https://api.bringyour.com/privacy.txt](https://api.bringyour.com/privacy.txt)
 
 
 ## How to convert a bunch of DOCX to plain text
