@@ -1,1 +1,1 @@
-Moved to [https://github.com/grittygrease/draft-colwell-privacy-txt](https://github.com/grittygrease/draft-colwell-privacy-txt) and the [IETF Datatracker](https://datatracker.ietf.org/doc/draft-colwell-privacy-txt/).
+Moved to [https://github.com/grittygrease/draft-colwell-privacy-txt](https://github.com/grittygrease/draft-colwell-privacy-txt) and the [IETF Datatracker](https://datatracker.ietf.org/doc/draft-colwell-privacy-txt/). See [https://privacytxt.dev](https://privacytxt.dev).
